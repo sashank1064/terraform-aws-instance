@@ -1,6 +1,6 @@
-# AWS ec2 instance
+# AWS ec2 instance creation using Modules
 
-you can create ec2 instance in roboshop using this modules
+You can create ec2 instance in roboshop using this modules
 
 ## Inputs
 
@@ -13,6 +13,6 @@ you can create ec2 instance in roboshop using this modules
 
 ## Outputs
 
-* public_ip = public ip of the instance created
+* public_ip - public ip of the instance created
 * private_ip - private ip of the instance created
 * instance_id - instance id of the instance created
